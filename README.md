@@ -21,3 +21,19 @@ This game uses Python's random module to generate a secret number. The player en
 4. Guess the correct number and win 🎉
 
 ## 🖥️ Sample Output
+🎯 Welcome to the Number Guessing Game!
+Guess a number between 1 and 100.
+
+Enter your guess: 30
+Too low! Try again.
+
+Enter your guess: 80
+Too high! Try again.
+
+Enter your guess: 65
+Too low! Try again.
+
+Enter your guess: 72
+🎉 Congratulations!
+You guessed the correct number.
+Total attempts: 4
